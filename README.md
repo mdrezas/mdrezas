@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdrezas, Data Scientist with the on-prem Anaconda platform 
+- 👋 Hi, I’m @mdrezas (Md Reza), Data Scientist (Platform: Anaconda & Hadoop) 
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning more about Data Engineering, Big Data, and Machine Learning on the Google Cloud Platform 
 - 💞️ I’m looking to collaborate on AI, ML, & Natural Language Processing  
